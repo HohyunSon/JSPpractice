@@ -84,7 +84,6 @@ public class JDBCTest {
 						}catch (SQLException e) {
 							e.printStackTrace();
 						}
-
 						break;
 					case 3:
 						System.out.println("프로그램을 종료합니다.");
